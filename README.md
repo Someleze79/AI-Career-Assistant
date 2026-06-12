@@ -5,7 +5,7 @@ AI Career Assistant is a full-stack web application designed to help job seekers
 ---
 
 ## Live Demo
-https://
+https://ai-career-assistant-1-onpg.onrender.com
 
 ---
 
@@ -164,7 +164,7 @@ Database: MongoDB Atlas
 
 *Someleze Shweni*
 
-*Full Stack Web Developer
+* Full Stack Web Developer
 
 GitHub: https://github.com/⁠Someleze79
 
